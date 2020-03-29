@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.parent {
+  height: 100vh;
+  border: 20px solid rgb(0, 0, 0);
+}
+.child1 {
+  width: 200px;
+  height: 200px;
+  background: rgb(86, 31, 158);
+}
+.child2 {
+  width: 200px;
+  height: 200px;
+  background: rgb(31, 158, 137);
+}
+.child3 {
+  width: 200px;
+  height: 200px;
+  background: rgb(188, 214, 115);
+}
