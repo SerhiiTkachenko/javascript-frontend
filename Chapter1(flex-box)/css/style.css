@@ -2,10 +2,13 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  font-size: 24px;
+  color: rgb(255, 255, 255);
 }
 .parent {
   height: 100vh;
   border: 20px solid rgb(0, 0, 0);
+  display: flex;
 }
 .child1 {
   width: 200px;
@@ -20,5 +23,10 @@
 .child3 {
   width: 200px;
   height: 200px;
-  background: rgb(188, 214, 115);
+  background: rgb(27, 61, 41);
+}
+.child4 {
+  width: 200px;
+  height: 200px;
+  background: rgb(65, 112, 34);
 }
